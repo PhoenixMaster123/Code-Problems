@@ -20,3 +20,15 @@ internal class Program
         // return words.FirstOrDefault(x => x == string.Concat(x.Reverse())) ?? "";
     }
 }
+/*
+-> in Java : 
+        for(String word : words)
+        {
+            StringBuilder reversed = new StringBuilder(word).reverse();
+            if(word.equals(reversed.toString()))
+            {
+                return word;
+            }
+        }
+        return "";
+*/
