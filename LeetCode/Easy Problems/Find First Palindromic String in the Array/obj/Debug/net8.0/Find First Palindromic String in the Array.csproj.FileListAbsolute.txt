@@ -1,0 +1,14 @@
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\LeetCode\Find First Palindromic String in the Array\bin\Debug\net8.0\Find First Palindromic String in the Array.exe
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\LeetCode\Find First Palindromic String in the Array\bin\Debug\net8.0\Find First Palindromic String in the Array.deps.json
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\LeetCode\Find First Palindromic String in the Array\bin\Debug\net8.0\Find First Palindromic String in the Array.runtimeconfig.json
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\LeetCode\Find First Palindromic String in the Array\bin\Debug\net8.0\Find First Palindromic String in the Array.dll
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\LeetCode\Find First Palindromic String in the Array\bin\Debug\net8.0\Find First Palindromic String in the Array.pdb
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\LeetCode\Find First Palindromic String in the Array\obj\Debug\net8.0\Find First Palindromic String in the Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\LeetCode\Find First Palindromic String in the Array\obj\Debug\net8.0\Find First Palindromic String in the Array.AssemblyInfoInputs.cache
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\LeetCode\Find First Palindromic String in the Array\obj\Debug\net8.0\Find First Palindromic String in the Array.AssemblyInfo.cs
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\LeetCode\Find First Palindromic String in the Array\obj\Debug\net8.0\Find First Palindromic String in the Array.csproj.CoreCompileInputs.cache
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\LeetCode\Find First Palindromic String in the Array\obj\Debug\net8.0\Find First Palindromic String in the Array.dll
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\LeetCode\Find First Palindromic String in the Array\obj\Debug\net8.0\refint\Find First Palindromic String in the Array.dll
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\LeetCode\Find First Palindromic String in the Array\obj\Debug\net8.0\Find First Palindromic String in the Array.pdb
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\LeetCode\Find First Palindromic String in the Array\obj\Debug\net8.0\Find First Palindromic String in the Array.genruntimeconfig.cache
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\LeetCode\Find First Palindromic String in the Array\obj\Debug\net8.0\ref\Find First Palindromic String in the Array.dll
