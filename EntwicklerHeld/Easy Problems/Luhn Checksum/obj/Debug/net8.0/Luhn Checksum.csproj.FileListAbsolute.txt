@@ -1,0 +1,14 @@
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Entwicklerheld\Luhn Checksum\bin\Debug\net8.0\Luhn Checksum.exe
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Entwicklerheld\Luhn Checksum\bin\Debug\net8.0\Luhn Checksum.deps.json
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Entwicklerheld\Luhn Checksum\bin\Debug\net8.0\Luhn Checksum.runtimeconfig.json
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Entwicklerheld\Luhn Checksum\bin\Debug\net8.0\Luhn Checksum.dll
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Entwicklerheld\Luhn Checksum\bin\Debug\net8.0\Luhn Checksum.pdb
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Entwicklerheld\Luhn Checksum\obj\Debug\net8.0\Luhn Checksum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Entwicklerheld\Luhn Checksum\obj\Debug\net8.0\Luhn Checksum.AssemblyInfoInputs.cache
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Entwicklerheld\Luhn Checksum\obj\Debug\net8.0\Luhn Checksum.AssemblyInfo.cs
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Entwicklerheld\Luhn Checksum\obj\Debug\net8.0\Luhn Checksum.csproj.CoreCompileInputs.cache
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Entwicklerheld\Luhn Checksum\obj\Debug\net8.0\Luhn Checksum.dll
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Entwicklerheld\Luhn Checksum\obj\Debug\net8.0\refint\Luhn Checksum.dll
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Entwicklerheld\Luhn Checksum\obj\Debug\net8.0\Luhn Checksum.pdb
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Entwicklerheld\Luhn Checksum\obj\Debug\net8.0\Luhn Checksum.genruntimeconfig.cache
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Entwicklerheld\Luhn Checksum\obj\Debug\net8.0\ref\Luhn Checksum.dll
