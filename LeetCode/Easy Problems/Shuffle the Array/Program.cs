@@ -17,16 +17,16 @@ internal class Program
 
     private static int[] shuffle(int[] nums, int n)
     {
-        int[] retArray = new int[2 * n];
+        int[] result = new int[2 * n];
         int j = 0;
 
         for (int i = 0; i < n; i++)
         {
-            retArray[j] = nums[i];
+            result[j] = nums[i];
             j++;
-            retArray[j] = nums[i + n];
+            result[j] = nums[i + n];
             j++;
         }
-        return retArray;
+        return result;
     }
 }
