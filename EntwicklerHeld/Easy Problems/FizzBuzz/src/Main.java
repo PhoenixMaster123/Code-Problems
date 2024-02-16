@@ -7,6 +7,7 @@ public class Main {
         int number = scanner.nextInt();
         System.out.println(fizzbuzz(number));
     }
+    
     static String fizzbuzz(int number) 
     {
         if (number % 3 != 0 && number % 5 != 0) 
