@@ -33,8 +33,12 @@ public class Main {
     }
 }
     ///////////////////////////////////// Variant 2 - Besser ///////////////////////////
-  /*  boolean anagram = false;
-        if(firstWord.length() == secondWord.length()){
+  /*  
+        boolean anagram = false;
+
+        if(firstWord.length() == secondWord.length())
+        {
+            
         char[] firstChar = firstWord.toCharArray();
         char[] secondChar = secondWord.toCharArray();
 
@@ -47,7 +51,7 @@ public class Main {
 }
 /*
 
-///////////////////////////////////// Variant  - C# ///////////////////////////
+///////////////////////////////////// Variant - C# ///////////////////////////////////
 
 /*
     return String.Concat(firstWord.OrderBy(x => x)).Equals(String.Concat(secondWord.OrderBy(x => x)));
