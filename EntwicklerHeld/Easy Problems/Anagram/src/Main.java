@@ -45,3 +45,10 @@ public class Main {
     }
         return anagram;
 }
+/*
+
+///////////////////////////////////// Variant  - C# ///////////////////////////
+
+/*
+    return String.Concat(firstWord.OrderBy(x => x)).Equals(String.Concat(secondWord.OrderBy(x => x)));
+/*
