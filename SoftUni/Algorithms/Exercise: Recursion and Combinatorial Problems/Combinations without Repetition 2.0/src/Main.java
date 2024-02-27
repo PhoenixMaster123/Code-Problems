@@ -28,7 +28,7 @@ public class Main {
             for (int i = start; i <= n; i++)
             {
                 arr[index] = i;
-                combinations(index + 1, i,arr,n);
+                combinations(index + 1, i + 1,arr,n);
             }
         }
     }
