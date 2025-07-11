@@ -1,0 +1,14 @@
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Allergies\Entwicklerheld\bin\Debug\net8.0\Entwicklerheld.exe
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Allergies\Entwicklerheld\bin\Debug\net8.0\Entwicklerheld.deps.json
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Allergies\Entwicklerheld\bin\Debug\net8.0\Entwicklerheld.runtimeconfig.json
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Allergies\Entwicklerheld\bin\Debug\net8.0\Entwicklerheld.dll
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Allergies\Entwicklerheld\bin\Debug\net8.0\Entwicklerheld.pdb
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Allergies\Entwicklerheld\obj\Debug\net8.0\Entwicklerheld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Allergies\Entwicklerheld\obj\Debug\net8.0\Entwicklerheld.AssemblyInfoInputs.cache
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Allergies\Entwicklerheld\obj\Debug\net8.0\Entwicklerheld.AssemblyInfo.cs
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Allergies\Entwicklerheld\obj\Debug\net8.0\Entwicklerheld.csproj.CoreCompileInputs.cache
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Allergies\Entwicklerheld\obj\Debug\net8.0\Entwicklerheld.dll
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Allergies\Entwicklerheld\obj\Debug\net8.0\refint\Entwicklerheld.dll
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Allergies\Entwicklerheld\obj\Debug\net8.0\Entwicklerheld.pdb
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Allergies\Entwicklerheld\obj\Debug\net8.0\Entwicklerheld.genruntimeconfig.cache
+C:\Users\krisi\OneDrive\Desktop\Informatik\Informatik\Entwicklerheld\Allergies\Entwicklerheld\obj\Debug\net8.0\ref\Entwicklerheld.dll
